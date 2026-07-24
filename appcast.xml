@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>UITester</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Fri, 24 Jul 2026 06:59:40 +0000</pubDate>
+            <link>https://github.com/ivan-mihalic/ui-tester-releases</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ivan-mihalic/ui-tester-releases/releases/download/v0.3.0/UITester-0.3.0.zip" length="42056764" type="application/octet-stream" sparkle:edSignature="vwbr8PS3cgz4SzhvCuY8ENPyBIIspGUirb7kGly71pJvSoJI7HfWMSlCfcbt9Te99G9EoIWSIQJ/JE7zF0oJBw=="/>
+        </item>
+    </channel>
+</rss>
