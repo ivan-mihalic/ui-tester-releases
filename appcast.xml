@@ -3,13 +3,13 @@
     <channel>
         <title>UITester</title>
         <item>
-            <title>0.34.0</title>
-            <pubDate>Sun, 23 Aug 2026 09:36:22 +0200</pubDate>
+            <title>0.35.0</title>
+            <pubDate>Sun, 23 Aug 2026 10:50:09 +0200</pubDate>
             <link>https://github.com/ivan-mihalic/ui-tester-releases</link>
-            <sparkle:version>1016</sparkle:version>
-            <sparkle:shortVersionString>0.34.0</sparkle:shortVersionString>
+            <sparkle:version>1020</sparkle:version>
+            <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ivan-mihalic/ui-tester-releases/releases/download/v0.34.0/UITester-0.34.0.zip" length="44469466" type="application/octet-stream" sparkle:edSignature="Atr7UQsgq9zXX/z9ebtVI36p6AsXrBkfloFpUe+SArlZCV3Y5ykFst+zqp1fv+KlNMNsDRmyeYGwKnZFZXByDA=="/>
+            <enclosure url="https://github.com/ivan-mihalic/ui-tester-releases/releases/download/v0.35.0/UITester-0.35.0.zip" length="44597386" type="application/octet-stream" sparkle:edSignature="RnBQ4/lmtkHT/XFUqQNLECN4mylrUEqfpSg1hQOv9X6XvB2C+cn7+BY/ZR/sUgEpiyVgmRibOHO0aqSlwQdbBg=="/>
         </item>
     </channel>
 </rss>
